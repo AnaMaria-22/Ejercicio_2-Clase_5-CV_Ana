@@ -1,1 +1,1 @@
-# *Taller 2 - Introducción CSS - CV Ana
+# Taller 2 - Introducción CSS - CV Ana
